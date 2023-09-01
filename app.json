@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "SalmanYt"
+      "value": "ProfileCorruptedError"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -77,7 +77,7 @@
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
-       "value": "https://gurugpt.cyclic.app/dalle?prompt=elon%20musk&model=art",
+       "value": "ADD A OPEN AI KEY",
        "required" :false
   },
   "MONGODB_URI": {
@@ -98,8 +98,8 @@
      "required": false 
   },
   "PACK_AUTHOR": {
-    "description": "PUT STICKER AUTHER NAME",
-    "value": "XLICON"
+    "description": "PUT STICKER AUTHOR NAME",
+    "value": "XLICON-MD"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
