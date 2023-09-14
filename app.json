@@ -1,4 +1,4 @@
-{
+{ 
   "name": "XLICON MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
@@ -52,7 +52,7 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -82,7 +82,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "PUT YOUR MONGO URL HERE"
+    "value": ""
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
