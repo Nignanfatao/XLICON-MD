@@ -26,6 +26,11 @@
   <a href="https://github.com/salmanytofficial"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
+## Important Notice
+
+Xlicon md v1 is now out dated. Xlicon Md V1 Might Give you Mongodb issues I suggest you to use Xlicon Md V2 Which is latest
+
+[Get XLICON V2](https://github.com/ahil15/Xlicon-v2)]
   
 ## Features
 
